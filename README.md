@@ -9,7 +9,7 @@ Exploring **robotics, drones, and embedded systems** while building professional
 
 **Programming Languages:** C++, Python, Ruby, Java  
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis, ClickHouse  
-**DevOps & Deployment:** Docker, Kubernetes  
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes  
 **Tools & Practices:** Git, CMake, VSCode, multithreading, testing, debugging  
 **Other Interests:** Robotics, drones, embedded systems, performance optimization  
 
@@ -20,14 +20,14 @@ Exploring **robotics, drones, and embedded systems** while building professional
 - [Memory Allocator](https://github.com/NateBotLabs/memory-allocator) – Custom C++ allocator with best-fit strategy and multithreading support  
 - Benchmarks & multithreaded tests included  
 
-*(More projects coming soon… robotics, drones, and backend tools!)*
+*(More projects coming soon… robotics, drones, backend tools, and cloud projects!)*
 
 ---
 
 ## 📫 Contact
 
 - GitHub: [NateBotLabs](https://github.com/NateBotLabs)  
-- Email: your-email@example.com  
+- Email: [balogunnathan13@gmail.com](mailto:balogunnathan13@gmail.com)  
 
 ---
 

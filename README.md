@@ -96,11 +96,12 @@ motto:     "Always learning, always building."
 
 <div align="center">
 
-[![memory-allocator](https://img.shields.io/badge/memory--allocator-Custom_C++_allocator_with_pool_allocation_%26_multithreaded_benchmarks-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/NateBotLabs/memory-allocator)
-
-[![cpp-web-server](https://img.shields.io/badge/cpp--web--server-Multi--threaded_HTTP_server_with_non--blocking_I/O_%26_TLS-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/NateBotLabs/cpp-web-server)
-
-[![invoicing-app](https://img.shields.io/badge/invoicing--app-Desktop_invoicing_tool_with_PDF_export_%26_SQLite_persistence-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NateBotLabs/invoicing-app)
+<a href="https://github.com/NateBotLabs/memory-allocator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NateBotLabs&repo=memory-allocator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=94A3B8&icon_color=14B8A6" />
+</a>
+<a href="https://github.com/NateBotLabs/cpp-web-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NateBotLabs&repo=cpp-web-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=94A3B8&icon_color=14B8A6" />
+</a>
 
 </div>
 
@@ -109,7 +110,7 @@ motto:     "Always learning, always building."
 <div align="center">
 
 <a href="https://github.com/NateBotLabs/invoicing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NateBotLabs&repo=invoicing-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=94A3B8&icon_color=14B8A6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NateBotLabs&repo=invoicing-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=94A3B8&icon_color=14B8A6" />
 </a>
 
 </div>

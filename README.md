@@ -16,7 +16,7 @@
 
 <br/>
 
-![hippo](<img width="498" height="319" alt="image" src="https://github.com/user-attachments/assets/4955a9cb-56b9-491a-bb8f-8136a8213730" />)
+![wave](<img width="498" height="319" alt="Emoji Waving Hello" src="https://github.com/user-attachments/assets/d7700cd6-e7b9-402c-a1b4-dd663b21939d" />)
 
 <br/>
 

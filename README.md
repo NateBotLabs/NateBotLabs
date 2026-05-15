@@ -16,6 +16,10 @@
 
 <br/>
 
+![hippo](<img width="498" height="319" alt="image" src="https://github.com/user-attachments/assets/4955a9cb-56b9-491a-bb8f-8136a8213730" />)
+
+<br/>
+
 ---
 
 ## `$ whoami`

@@ -139,7 +139,6 @@ motto:     "Always learning, always building."
 
 [![Email](https://img.shields.io/badge/balogunnathan13@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:balogunnathan13@gmail.com)
 [![Portfolio](https://img.shields.io/badge/natebotlabs.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=14B8A6)](https://natebotlabs.vercel.app)
-[![Schedule](https://img.shields.io/badge/Schedule%20a%20Call-0D1117?style=for-the-badge&logo=googlecalendar&logoColor=14B8A6)](https://cal.com/nathanbotlabs)
 
 </div>
 

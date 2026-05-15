@@ -16,7 +16,7 @@
 
 <br/>
 
-![wave](<img width="498" height="319" alt="Emoji Waving Hello" src="https://github.com/user-attachments/assets/d7700cd6-e7b9-402c-a1b4-dd663b21939d" />)
+![wave](https://github-production-user-asset-6210df.s3.amazonaws.com/133530446/593320028-d7700cd6-e7b9-402c-a1b4-dd663b21939d.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260515T193135Z&X-Amz-Expires=300&X-Amz-Signature=504f3c401c00ecd1d0d01ebaaf409783d37d0a03ddedee6c2f960fb139bccefc&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif)
 
 <br/>
 

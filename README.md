@@ -97,7 +97,7 @@ motto:     "Always learning, always building."
 <div align="center">
 
 <a href="https://github.com/NateBotLabs/memory-allocator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NateBotLabs&repo=memory-allocator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=94A3B8&icon_color=14B8A6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NateBotLabs&repo=memory-allocator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=94A3B8&icon_color=14B8A6" />
 </a>
 <a href="https://github.com/NateBotLabs/cpp-web-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NateBotLabs&repo=cpp-web-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=94A3B8&icon_color=14B8A6" />

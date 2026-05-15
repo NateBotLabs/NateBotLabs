@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/133530446/593320028-d7700cd6-e7b9-402c-a1b4-dd663b21939d.gif" alt="wave"  width="300"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/133530446/593320028-d7700cd6-e7b9-402c-a1b4-dd663b21939d.gif" alt="wave"/>
 </div>
 
 

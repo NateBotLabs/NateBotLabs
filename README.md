@@ -78,12 +78,16 @@ motto:     "Always learning, always building."
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NateBotLabs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=94A3B8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateBotLabs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=94A3B8"/>
+  <img src="https://streak-stats.demolab.com/?user=NateBotLabs&theme=tokyonight&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NateBotLabs&theme=tokyonight&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NateBotLabs&theme=github_dark" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NateBotLabs&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NateBotLabs&theme=github_dark"/>
 </div>
 
 ---
